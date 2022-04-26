@@ -91,9 +91,23 @@ a {
 .information-header {
     font-size: 36px;
     font-weight: 800;
+    text-align: center;
+    margin: 40px;
 }
 
-.information-line img {
+.information-line {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.info-image {
+    width: 175px;
+}
+
+.info-image img {
     border-style: solid;
     border-color: #3882F6;
 }
