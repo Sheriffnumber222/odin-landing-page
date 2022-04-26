@@ -50,3 +50,17 @@ a {
     border-style: solid;
     border-color: #3882F6;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-person {
+    font-size: 24px;
+    font-weight: bold;
+}
