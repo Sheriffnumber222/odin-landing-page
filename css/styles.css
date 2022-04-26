@@ -64,3 +64,13 @@ a {
     font-size: 24px;
     font-weight: bold;
 }
+
+.call-to-action {
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
+.call-to-action button {
+    border-style: solid;
+    border-color: #F9FAF8;
+}
