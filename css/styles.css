@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    color: #1F2937;
+    color: #262121;
     font-size: 18px;
     display: flex;
     flex-direction: column;
@@ -18,8 +18,8 @@ img {
 }
 
 button {
-    background-color: #3882F6;
-    color: #F9FAF8;
+    background-color: #474242;
+    color: #e5bf04;
     border-style: none;
     padding: 25px;
     Padding-top: 8px;
@@ -42,8 +42,8 @@ a {
 }
 
 .hero, .footer {
-    background-color: #1F2937;
-    color: #E5E7EB;
+    background-color: #262121;
+    color: #e6e6e6;
 }
 
 .hero {
@@ -55,7 +55,6 @@ a {
 }
 
 .header {
-    color: #F9FAF8;
     display: flex;
     align-items: center;
 }
@@ -114,9 +113,10 @@ a {
 
 .info-image img {
     border-style: solid;
-    border-color: #3882F6;
+    border-color: #e5bf04;
     border-radius: 15px;
     border-width: 5px;
+    height: 90px;
 }
 
 .quote-section {
@@ -142,8 +142,8 @@ a {
 }
 
 .call-to-action {
-    color: #F9FAF8;
-    background-color: #3882F6;
+    color: #e5bf04;
+    background-color: #474242;
     margin: 100px;
     margin-left: 15%;
     margin-right: 15%;
@@ -162,7 +162,7 @@ a {
 
 .call-to-action button {
     border-style: solid;
-    border-color: #F9FAF8;
+    border-color: #e5bf04;
     border-width: 2px;
     margin-left: 20%;
 }
