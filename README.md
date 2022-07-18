@@ -1,3 +1,2 @@
 # odin-landing-page
-For this project I will deminstrate my new found flex skills and create a website based of images odin has provided.
-Man, I can't freakin' wait.
+For this project I will deminstrate my new found flex skills and create a website based of images odin has provided. Additionally, I added my own theme and color scheme based off of Slay the Spire. I'd like to return to this at some point and make it look better.
